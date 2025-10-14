@@ -1,9 +1,9 @@
-version: 1.0.15
+version: 1.0.20
 files:
-  - url: komediaplayer.Setup.1.0.15.exe
-    sha512: 31ynTUpckboai+q9D3dOyCyRXCPDcrOVAQ1ra3KIe+SJ6LEqU8YKYeBu83gGOnkxqcDgwCxzlrJCIuRp7VvTaA==
-    size: 177962186
+  - url: komediaplayer.Setup.1.0.20.exe
+    sha512: Z+pwynvyG/XsT4Tv9xGkUhssvo3iCD6V+Vbl0quKm8LdhicpqL8jjlGZhxoJYzWEvoq4YkOhnmBbOyoe0aBzqg==
+    size: 180116410
     isAdminRightsRequired: true
-path: komediaplayer.Setup.1.0.15.exe
-sha512: 31ynTUpckboai+q9D3dOyCyRXCPDcrOVAQ1ra3KIe+SJ6LEqU8YKYeBu83gGOnkxqcDgwCxzlrJCIuRp7VvTaA==
-releaseDate: '2025-10-14T00:20:08.679Z'
+path: komediaplayer.Setup.1.0.20.exe
+sha512: Z+pwynvyG/XsT4Tv9xGkUhssvo3iCD6V+Vbl0quKm8LdhicpqL8jjlGZhxoJYzWEvoq4YkOhnmBbOyoe0aBzqg==
+releaseDate: '2025-10-14T15:39:36.191Z'
