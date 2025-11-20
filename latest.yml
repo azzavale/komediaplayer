@@ -1,9 +1,9 @@
-version: 2.0.0
+version: 2.0.1
 files:
-  - url: komediaplayer.Setup.2.0.0.exe
-    sha512: ei3OVZxQWHrthupYzq5HVYS20XxHLe1BBFpCMnaV567ZLyKuuzLBQRHmdmXWyoP01+Jgall7I0nAx6JyrDaftA==
-    size: 172258022
+  - url: komediaplayer.Setup.2.0.1.exe
+    sha512: 5TRGK5Y3UlGAZZY1dbl+0bFXSy9vqbwvZYoOFo5ZUYPU/NgiNc77LRSxYstbGDV7R1a8o7siRSXD+GfyhoxNkQ==
+    size: 172544461
     isAdminRightsRequired: true
-path: komediaplayer.Setup.2.0.0.exe
-sha512: ei3OVZxQWHrthupYzq5HVYS20XxHLe1BBFpCMnaV567ZLyKuuzLBQRHmdmXWyoP01+Jgall7I0nAx6JyrDaftA==
-releaseDate: '2025-11-20T12:28:32.874Z'
+path: komediaplayer.Setup.2.0.1.exe
+sha512: 5TRGK5Y3UlGAZZY1dbl+0bFXSy9vqbwvZYoOFo5ZUYPU/NgiNc77LRSxYstbGDV7R1a8o7siRSXD+GfyhoxNkQ==
+releaseDate: '2025-11-20T13:09:53.097Z'
