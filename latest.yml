@@ -1,0 +1,9 @@
+version: 2.0.4
+files:
+  - url: ygm360.Setup.2.0.4.exe
+    sha512: 8GS1s6LEcyvzBh3L+M6oDLQ7/MZRL7af/2wMUpEZVE1PCrys43m3QCYAZwQVK/HbxgkoY8g/7qU0qT4CqXdedA==
+    size: 219847292
+    isAdminRightsRequired: true
+path: ygm360.Setup.2.0.4.exe
+sha512: 8GS1s6LEcyvzBh3L+M6oDLQ7/MZRL7af/2wMUpEZVE1PCrys43m3QCYAZwQVK/HbxgkoY8g/7qU0qT4CqXdedA==
+releaseDate: '2025-11-20T14:11:49.365Z'
