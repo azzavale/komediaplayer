@@ -1,9 +1,9 @@
-version: 2.0.7
+version: 2.1.0
 files:
-  - url: ygm360.Setup.2.0.7.exe
-    sha512: +hjSvRDpSJ/a4Tp/CtZvnaE5/6fG4MuxaCWQdlbVT7223o5erqyS/hh0kdMPIMxzHgie2cuutpyefD8rZrv7yA==
-    size: 239648692
+  - url: ygm360.Setup.2.1.0.exe
+    sha512: xAokGgeoLPQCa4lqiJSr8phA255dRqKIpsbpBEuBCtlGGDevT0iC2etQFTw/FZ7kiUw1HyJQxXv6761G9Ex1Bw==
+    size: 151310324
     isAdminRightsRequired: true
-path: ygm360.Setup.2.0.7.exe
-sha512: +hjSvRDpSJ/a4Tp/CtZvnaE5/6fG4MuxaCWQdlbVT7223o5erqyS/hh0kdMPIMxzHgie2cuutpyefD8rZrv7yA==
-releaseDate: '2025-11-20T17:00:45.933Z'
+path: ygm360.Setup.2.1.0.exe
+sha512: xAokGgeoLPQCa4lqiJSr8phA255dRqKIpsbpBEuBCtlGGDevT0iC2etQFTw/FZ7kiUw1HyJQxXv6761G9Ex1Bw==
+releaseDate: '2025-11-21T14:20:10.787Z'
